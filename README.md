@@ -1,4 +1,4 @@
-# Suspense + ViewTransition Demo (React 19.2 canary)
+# Suspense + ViewTransition Demo
 
 Small Vite app that highlights React 19.2 canary's `ViewTransition` API applied to `Suspense` content.
 
